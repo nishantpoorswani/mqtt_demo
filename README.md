@@ -8,7 +8,9 @@ Hardware required: Hikey 970, USB Video Camera, PC
 Pre-requisites for PC and Hikey970:
 
 sudo apt-get update
+
 sudo apt-get install python-dev python-pip fswebcam 
+
 pip install paho-mqtt
 
 Perform the following steps for the MQTT Demo:
